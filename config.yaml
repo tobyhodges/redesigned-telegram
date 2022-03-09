@@ -10,7 +10,7 @@
 carpentry: cp
 
 # Overall title for pages.
-title: Lesson Title
+title: An example lesson site with The Carpentries Workbench
 
 # Date the lesson was created (this is empty by default)
 created: ~
