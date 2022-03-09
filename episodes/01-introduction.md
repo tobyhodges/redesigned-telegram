@@ -25,6 +25,8 @@ This is a lesson created via The Carpentries Workbench. It is written in
 Please refer to the [Introduction to The Carpentries 
 Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
 
+[See the setup instructions for this lesson](../learners/setup.md).
+
 What you need to know is that there are three sections required for a valid
 Carpentries lesson:
 
